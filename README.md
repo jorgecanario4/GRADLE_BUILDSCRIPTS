@@ -1,2 +1,2 @@
 # GRADLE_BUILDSCRIPTS
-Contains buildscripts used to add functionalities to build.gradle 
+Contains buildscripts used to add functionalities to projects' build.gradle 
