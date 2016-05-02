@@ -10,7 +10,8 @@ buildscript {
 }
 
 apply plugin: 'android-sdk-manager'
+apply plugin: 'com.android.application'
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.12'
+    gradleVersion = '1.10'
 }
